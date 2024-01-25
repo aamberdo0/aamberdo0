@@ -18,6 +18,7 @@
 
 
 ### What I have known
+ - Coding: 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -26,7 +27,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+- Tools: 
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 
 ### What I'm currently learning
